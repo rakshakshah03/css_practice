@@ -88,7 +88,7 @@ div.blue p{
     border-top: 2px;
 }
 
-.footer{
+footer{
     background: rgb(0,0,0);
     background: linear-gradient(90deg, rgba(0,0,0,1) 25%, rgba(0,0,255,1) 70%, rgba(0,102,255,1) 100%);
     border-width: 5px;
@@ -96,7 +96,7 @@ div.blue p{
     border-color: white;
 }
 
-.footer p{
+footer p{
     font-size: 20px;
     text-align: right;
     padding-top: 15px;
